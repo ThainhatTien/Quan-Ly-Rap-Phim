@@ -1,0 +1,15 @@
+﻿Thực hiện theo các bước sau đây để cài đặt
+1. Cài JDK 1.8+ (nếu chưa cài)
+2. Cài SQL Server 2008+ (nếu chưa cài)
+3. Chạy QuanLyRapPhim.sql để tạo CSDL QuanLyRapPhim
+4. Chạy QuanLyRapPhim.exe
+5. Chạy và đăng nhập với tài khoản
+5.1 Quản lý:
++ username: NV01
++ password: 111
+5.2 Nhân viên bình thường
++ username: NV02
++ password: 123
+6.UserName/PassWord Database
+username = "sa";
+password = "123"
